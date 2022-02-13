@@ -1,0 +1,10 @@
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    width:80%;
+}
+.banner{
+    display: flex;
+    margin-top: 20px;
+}
